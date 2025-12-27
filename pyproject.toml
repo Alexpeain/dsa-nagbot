@@ -1,0 +1,16 @@
+[project]
+name = "dsa-nagbot"
+version = "0.1.0"
+dependencies = [
+  "python-telegram-bot==21.4",
+  "ollama==0.3.3",
+  "psycopg2-binary==2.9.9",
+  "apscheduler==3.10.4",
+  "python-dotenv==1.0.1",
+  "notion-client==2.3.0",
+]
+
+# Remove this section for now:
+# [build-system]
+# requires = ["hatchling"]
+# build-backend = "hatchling.build"
