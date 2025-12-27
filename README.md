@@ -8,13 +8,13 @@ It runs as a Dockerized backend using **Python, uv, PostgreSQL, and a local LLM 
 
 ## Features
 
-- **Daily DSA tasks**: Arrays, linked lists, stacks, queues, trees, graphs, recursion, and algorithms broken into 5–30 minute tasks. [page:1]  
-- **3× daily reminders**: Morning, afternoon, and evening prompts to keep you accountable for each day’s tasks. [page:1]  
-- **Adaptive difficulty**: Tasks can ramp up based on your completion and success rate over time. [page:1]  
-- **AI coaching**: Free local LLM (via Ollama) generates problems, reviews your code, and gives feedback in chat. [page:1]  
-- **Progress tracking**: Stores your schedule, submissions, and streaks in PostgreSQL. [page:1]  
-- **Exports to Notion / Markdown**: Monthly summaries of what you actually completed, ready to review or archive. [page:1]  
-- **Zero-cost stack**: Runs in GitHub Codespaces with Docker + Ollama + Telegram + Postgres, no paid APIs required. [page:1]
+- **Daily DSA tasks**: Arrays, linked lists, stacks, queues, trees, graphs, recursion, and algorithms broken into 5–30 minute tasks. 
+- **3× daily reminders**: Morning, afternoon, and evening prompts to keep you accountable for each day’s tasks. 
+- **Adaptive difficulty**: Tasks can ramp up based on your completion and success rate over time. 
+- **AI coaching**: Free local LLM (via Ollama) generates problems, reviews your code, and gives feedback in chat.
+- **Progress tracking**: Stores your schedule, submissions, and streaks in PostgreSQL.
+- **Exports to Notion / Markdown**: Monthly summaries of what you actually completed, ready to review or archive.   
+- **Zero-cost stack**: Runs in GitHub Codespaces with Docker + Ollama + Telegram + Postgres, no paid APIs required. 
 
 ---
 
